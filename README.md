@@ -29,8 +29,8 @@ churn_prediction_project/
 │
 ├── models/
 │   ├── churn_xgb_model.pkl
-│   ├── encoder.pkl
-│   ├── scaler.pkl
+│  
+│   
 │
 ├── Dockerfile
 ├── requirements.txt
